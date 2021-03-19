@@ -17,5 +17,5 @@ document.querySelector("input").addEventListener("keyup", function(e) {
 });
 
 title.onclick = function() {
-    this.textContent = "Welcome, User!";
+    this.textContent = "You're the boss!";
 }
